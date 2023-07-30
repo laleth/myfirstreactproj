@@ -1,0 +1,26 @@
+
+
+.Head{
+    text-align: center;
+    color: blue;
+    padding: 50px;
+    font-family: 'Courier New', Courier, monospace;
+  }
+  
+  .about{
+    margin-left: 0px;
+    padding-bottom: 40px;
+    font-family: 'Courier New', Courier, monospace;
+  }
+  .cont{
+   margin-top: 20px;
+  }
+  
+  .tiger{
+    margin-left: 40px;
+    font-family: 'Courier New', Courier, monospace;
+  }
+  .pic{
+    display: flex;
+  }
+  
